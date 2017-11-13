@@ -54,7 +54,7 @@ Using virtual environment is a good way to keep your personal space clean and in
 
 `> pip install theano`
 
-`> pip install panda`
+`> pip install pandas`
 
 
 
