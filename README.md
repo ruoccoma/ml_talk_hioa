@@ -39,8 +39,8 @@ Using virtual environment is a good way to keep your personal space clean and in
 
 1. Install ipython
 
-`> pip install ipython`
-`> pip install jupyter`
+`> pip2 install ipython`
+`> pip2 install jupyter`
 
 2. Run
 
@@ -49,8 +49,13 @@ Using virtual environment is a good way to keep your personal space clean and in
 ## Install Keras
 
 `> pip install numpy`
+
 `> pip install keras`
+
 `> pip install theano`
+
+`> pip install panda`
+
 
 
 
