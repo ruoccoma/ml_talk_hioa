@@ -46,4 +46,12 @@ Using virtual environment is a good way to keep your personal space clean and in
 
 `> jupyter notebook`
 
+## Install Keras
+
+`> pip install numpy`
+`> pip install keras`
+`> pip install theano`
+
+
+
 
