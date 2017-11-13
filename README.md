@@ -56,7 +56,7 @@ Using virtual environment is a good way to keep your personal space clean and in
 
 `> pip install pandas`
 
-
+`> pip install sklearn`
 
 
 
