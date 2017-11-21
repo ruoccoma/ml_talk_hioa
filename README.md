@@ -34,3 +34,25 @@ Using virtual environment is a good way to keep your personal space clean and in
 4. To deactivate the virtualenvironment: 
 
 `> deactivate`
+
+## Install and Use Jupyter Notebook
+
+1. Install ipython
+
+`> pip2 install ipython`
+`> pip2 install jupyter`
+
+2. Run
+
+`> jupyter notebook`
+
+## Install Other libraries
+
+`> pip install numpy`
+
+`> pip install pandas`
+
+`> pip install sklearn`
+
+
+
